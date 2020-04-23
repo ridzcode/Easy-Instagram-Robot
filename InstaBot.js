@@ -30,7 +30,7 @@ setInterval(function() {
 // Follow bot
 
 // set follow loop
-for(var follow = 0; follow < 5; follow++) {
+for(var follow = 0; follow < 10; follow++) {
   // get button class
   document.getElementsByClassName("sqdOP")[follow].click();
   // console
@@ -42,7 +42,7 @@ for(var follow = 0; follow < 5; follow++) {
 let noAcc = 1;
 
 // Set unfollow
-for (let unfollow = 0; unfollow < 30; unfollow++){
+for (let unfollow = 0; unfollow < 10; unfollow++){
   // click unfollow
   document.getElementsByClassName("sqdOP")[noAcc].click();
   // confirm button
