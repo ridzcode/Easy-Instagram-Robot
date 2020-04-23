@@ -16,6 +16,7 @@ This is instagram follow and like bot with web console.
 * Web console
 
 # Screenshot
+![Example screenshot](screenshot.png)
 
 # Instructions
 * Like bot
