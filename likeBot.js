@@ -18,7 +18,7 @@ setInterval(function() {
     if(hati){
         hati.click();
         kira++;
-        console.log(`Anda telah like ${kira} gambar`);
+        console.log(`${kira} photos liked!!!`);
     }
     // change picture
     panah.click();
