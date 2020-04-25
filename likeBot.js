@@ -11,7 +11,7 @@ let kira = 0;
 setInterval(function() {
     // get like button
     let hati = document.querySelector("button.wpO6b");
-    // dapatkan butang panah pagination
+    // get pagination arrow
     let panah = document.querySelector("a.coreSpriteRightPaginationArrow");
 
     // if true hit button
