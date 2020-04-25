@@ -13,7 +13,7 @@ for (let unfollow = 0; unfollow < 10; unfollow++){
   // confirm button
   document.getElementsByClassName("aOOlW -Cab_")[0].click();
   // unfollow done
-  console.log(`Anda telah unfollow sebanyak ${noAcc} akaun`);
+  console.log(`you unfollowed ${noAcc} accounts`);
   // index increase
   noAcc++;
 }
