@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="300" src="robot.png">
+</p>
+
 # Easy Instagram Robot
 This is instagram follow and like bot with web console.
 
