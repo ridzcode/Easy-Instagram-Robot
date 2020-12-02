@@ -50,4 +50,4 @@ Click enter
 * WARNING: Instagram will just prevent you from hitting the follow button if you do too many in a short period of time, so you're generally safe using this.
 
 # Download
-<a href="https://github.com/ridzcode/Easy-Instagram-Robot/releases" target="_blank">Download Instagram Bot</a>
+<p><a href="https://github.com/ridzcode/Easy-Instagram-Robot/releases" target="_blank">Download Instagram Bot</a></p>
