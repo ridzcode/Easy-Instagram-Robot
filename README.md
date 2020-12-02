@@ -11,6 +11,7 @@ This is instagram follow and like bot with web console.
 * [Technologies](#technologies)
 * [Screenshot](#screenshot)
 * [Instructions](#instructions)
+* [Download](#download)
 
 # Requirement
 * Open instagram with browser
@@ -47,3 +48,6 @@ Copy "unfollow code" and paste into web console
 Click enter
 ```
 * WARNING: Instagram will just prevent you from hitting the follow button if you do too many in a short period of time, so you're generally safe using this.
+
+# Download
+https://github.com/ridzcode/Easy-Instagram-Robot/releases
