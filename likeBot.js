@@ -1,5 +1,7 @@
+  
 /** 
  * Instagram bot with web console
+ * Coded by @ridzcode
 */
 
 // Like instagram bot
@@ -18,10 +20,10 @@ setInterval(function() {
     if(hati){
         hati.click();
         kira++;
-        console.log(`${kira} photos liked!!!`);
+        console.log(`${kira} photos liked!!! -- Coded by @ridzcode --`);
     }
     // change picture
     panah.click();
 
     // like time loop
-}, 60000);
+}, 10000);
