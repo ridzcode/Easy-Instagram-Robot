@@ -1,5 +1,6 @@
 /** 
  * Instagram bot with web console
+ * Coded by @ridzcode
 */
 
 // Unfollow from profile
@@ -13,7 +14,7 @@ for (let unfollow = 0; unfollow < 10; unfollow++){
   // confirm button
   document.getElementsByClassName("aOOlW -Cab_")[0].click();
   // unfollow done
-  console.log(`you unfollowed ${noAcc} accounts`);
+  console.log(`you unfollowed ${noAcc} accounts -- Coded by @ridzcode --`);
   // index increase
   noAcc++;
 }
