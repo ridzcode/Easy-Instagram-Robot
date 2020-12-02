@@ -26,26 +26,26 @@ This is instagram follow and like bot with web console.
 # Instructions
 * Like bot
 ```
-Navigate to https://www.instagram.com/explore/
-Click random photo
-Open console (ctrl + shift + j)
-Copy "like code" and paste into web console
-Click enter
+1. Navigate to https://www.instagram.com/explore/
+2. Click random photo
+3. Open console (ctrl + shift + j)
+4. Copy "like code" and paste into web console
+5. Click enter
 ```
 * Follow bot
 ```
-Navigate to https://www.instagram.com/[any-username]/
-Click follower button
-Open console (ctrl + shift + j)
-Copy "follow code" and paste into web console
-Click enter
+1. Navigate to https://www.instagram.com/[any-username]/
+2. Click follower button
+3. Open console (ctrl + shift + j)
+4. Copy "follow code" and paste into web console
+5. Click enter
 ```
 * Unfollow bot
 ```
-Navigate to https://www.instagram.com/[your-username]/followers/
-Open console (ctrl + shift + j)
-Copy "unfollow code" and paste into web console
-Click enter
+1. Navigate to https://www.instagram.com/[your-username]/followers/
+2. Open console (ctrl + shift + j)
+3. Copy "unfollow code" and paste into web console
+4. Click enter
 ```
 * WARNING: Instagram will just prevent you from hitting the follow button if you do too many in a short period of time, so you're generally safe using this.
 
