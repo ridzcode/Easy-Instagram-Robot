@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="robot.png">
+  <img width="450" height="300" src="robot.png">
 </p>
 
 # Easy Instagram Robot
